@@ -1,0 +1,14 @@
+<html> 
+<h1>
+Hey, I'm Charles Lee
+</h1>
+<body>
+<h2>My Listed Competencies:
+</h2>
+<ol>
+<li>Eat</li>
+<li>Code</li>
+<li>Sleep</li>
+</ol>
+</body>
+</htmnl>
